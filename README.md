@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Harikaran-421
-- 👀 I’m interested in  Data Scientist 
-- 🌱 I’m currently learning Data Scientist
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Harikaran M
+- 👀 I’m interested in  Data Scientist , Data Analytics opportunity
+- 🌱 I’m currently learning Gen AI..
+- 💞️ I’m looking to collaborate on collaborate on Research on ML, DL.
+- 📫 How to reach me harikaranmuniyandi421@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I will start immediatly 
+
+
+
+
+
+
+
+
+
+
+
 
 <!---
 Harikaran-421/Harikaran-421 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
