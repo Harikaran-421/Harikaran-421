@@ -29,9 +29,7 @@ I'm a Data Scientist | Machine Learning Scientist with expertise in Driven Data 
     <img src="https://github.com/HARIKARAN/your-repo/blob/main/path-to-mysql-logo.png" alt="MySQL" width="50" height="50"/>
     <img src="https://github.com/HARIKARAN/your-repo/blob/main/path-to-powerbi-logo.png" alt="Power BI" width="50" height="50"/>
     <img src="https://github.com/HARIKARAN/your-repo/blob/main/path-to-tensorflow-logo.png" alt="TensorFlow" width="50" height="50"/>
- 
-<p align = "right'>
- <![68747470733a2f2f6d656469612e74656e6f722e636f6d2f436967707a6170656d736f41414141692f68692d726f626f742e676966](https://github.com/user-attachments/assets/4367f4bb-08de-4342-b0b3-ab0536bf519b)>
+
 </p>
 
 ------
