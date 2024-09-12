@@ -1,10 +1,13 @@
-# Hey, HARIKARAN here 👋 ,
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harikaran  </h1>
+<h3 align="center"> I'm Aspiring Data Enthusiast Role's Based on Bangalore.</h3>
 
-I'm a Data Scientist | Machine Learning Scientist with expertise in Driven Data Scientist with strong expertise in Python, SQL, and machine learning techniques including supervised and unsupervised learning, feature engineering, and deeplearning.Proficient in AI topics such as NLP and neural net works, with a solid foundation in statistic alanalysis and EDA processes.
+Passionate Data Enthusiast aspiring to become a Data Scientist and Machine Learning Scientist. I possess strong expertise in Python, SQL, and various machine learning techniques, including supervised and unsupervised learning, feature engineering, and deep learning.
+
+I have a solid foundation in AI topics such as Natural Language Processing (NLP) and neural networks, alongside a strong grasp of statistical analysis and Exploratory Data Analysis (EDA). I am eager to apply my skills to solve complex, data-driven challenges and contribute to impactful data solutions.
 
 <img align="right" src="https://media.tenor.com/CigpzapemsoAAAAi/hi-robot.gif" width="250" height="300" alt="bot"/>
 
-## :star: Data Science Tools
+## Data Science Tools
 ***
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/>
@@ -36,7 +39,6 @@ I'm a Data Scientist | Machine Learning Scientist with expertise in Driven Data 
 
 ----
 
-
 ## 🌱 Skills: 
 ❖ Programming Language's:Python, SQL, Data Structures & Algorithms (DSA)
 
@@ -54,6 +56,10 @@ I'm a Data Scientist | Machine Learning Scientist with expertise in Driven Data 
  ❖ Data Science & Programming Languages, ML & AI
  
  ❖ Expecting 2025 
+
+----
+
+     ** I'm always open to new opportunities and collaborations. If you share a passion for data and problem-solving, let's connect!** 
 
 
 
