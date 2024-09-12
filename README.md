@@ -1,7 +1,7 @@
-# Hey, HARIKARAN M here 😊                         ![68747470733a2f2f6d656469612e74656e6f722e636f6d2f436967707a6170656d736f41414141692f68692d726f626f742e676966](https://github.com/user-attachments/assets/4367f4bb-08de-4342-b0b3-ab0536bf519b)
+# Hey, HARIKARAN here 👋                       
+![68747470733a2f2f6d656469612e74656e6f722e636f6d2f436967707a6170656d736f41414141692f68692d726f626f742e676966](https://github.com/user-attachments/assets/4367f4bb-08de-4342-b0b3-ab0536bf519b)
 
-I am a Data Scientist | Machine Learning Scientist with expertise in Driven Data Scientist with strong expertise in Python, SQL, and machine learning techniques including supervised and
-unsupervised learning, feature engineering, and deeplearning.Proficient in AI topics such as NLP and neural net works, with a solid foundation in statistic alanalysis and EDA processes.
+I'm a Data Scientist | Machine Learning Scientist with expertise in Driven Data Scientist with strong expertise in Python, SQL, and machine learning techniques including supervised and unsupervised learning, feature engineering, and deeplearning.Proficient in AI topics such as NLP and neural net works, with a solid foundation in statistic alanalysis and EDA processes.
 
 ## 🌟 Data Science Tools
 ---
@@ -15,20 +15,18 @@ unsupervised learning, feature engineering, and deeplearning.Proficient in AI to
 <!-- Add more tools as you wish -->
 
 ---
-
 ### Let's connect:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harikaran-m-421datascientist/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-harikaranmuniyandi421@gmail.com)
 
-## 🔍 What I Do
-Data Analysis: Uncovering insights from complex datasets and transforming raw data into actionable information.
-Data Visualization: Creating meaningful visualizations to communicate insights effectively.
-## 🌱 Skills
-Programming Languages: Python, SQL, DAX
-Databases: MySQL, PostgreSQL
+
+## 🌱 Skills:
+Programming Languages: Python, SQL
+Databases: MySQL,SQL
 Data Visualization: Microsoft Power BI, Microsoft Excel Sheets
-## 📚 Education
-[Degree Earned] BCA in Computer Science , Pandit Jawaharlal Nehru College.
+## 📚 Education:
+ University Of Mysore (UOM),Mysore,KA || MASTER OF COMPUTER APPLICATION, MCA ||Expecting2025 - Data Science & Programming Languages, ML & AI
 
 
 
